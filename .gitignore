@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+
+# Model files (optional if too big, else keep if needed)
+*.keras
+*.h5
+*.ckpt
