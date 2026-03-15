@@ -1,4 +1,4 @@
-tensorflow-cpu
+tensorflow-cpu==2.15.0
 streamlit
 google-generativeai
 python-dotenv
