@@ -1,5 +1,6 @@
-tensorflow
+tensorflow-cpu
 streamlit
 google-generativeai
 python-dotenv
 Pillow
+numpy
